@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;
 import br.edu.iftm.vitrino.service.ClienteService;
-import br.edu.iftm.vitrino.entity.Cliente;
+import br.edu.iftm.vitrino.entity.Cliente; 
 import java.util.List;
 
 @RestController
